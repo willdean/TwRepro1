@@ -1,0 +1,1 @@
+npx tailwindcss --output twout.css --watch -i twbase.css
